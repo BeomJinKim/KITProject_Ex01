@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../sonar-java-master/java-frontend/src/test/files/bytecode/lib/hello.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../sonar-java-master/java-frontend/src/test/files/bytecode/lib/emptyArchive.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../sonar-java-master/java-frontend/src/test/files/bytecode/lib/likeJdkJar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../sonar-java-master/java-frontend/src/test/files/bytecode/lib/emptyFile.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

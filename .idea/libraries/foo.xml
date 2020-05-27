@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="foo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../sonar-java-master/java-frontend/src/test/files/classpath/lib/target/classes/foo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
