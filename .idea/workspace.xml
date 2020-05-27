@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5289ed0e-a00c-4619-aa8b-e43b35bcd1b6" name="Default Changelist" comment="" />
+    <list default="true" id="5289ed0e-a00c-4619-aa8b-e43b35bcd1b6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZqhkyD9FOA3icFebA9wmYBdOgA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,6 +30,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
@@ -131,11 +140,23 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590296762014" />
+    <state x="297" y="24" key="CommitChangelistDialog2" timestamp="1590582685609">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="297" y="24" key="CommitChangelistDialog2/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1590582685609" />
     <state x="1107" y="133" key="FileChooserDialogImpl" timestamp="1590503895175">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="420" y="58" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1585663622413" />
     <state x="1107" y="133" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590503895175" />
+    <state x="587" y="354" width="492" height="316" key="Github.ShareDialog" timestamp="1590582397810">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="587" y="354" width="492" height="316" key="Github.ShareDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1590582397810" />
+    <state x="445" y="154" key="Github.UntrackedFilesDialog" timestamp="1590582417141">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="445" y="154" key="Github.UntrackedFilesDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1590582417141" />
     <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1590307217183">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -193,17 +214,26 @@
     </state>
     <state x="141" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1586777313069" />
     <state x="461" y="47" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590425897136" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1590583301619">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1590583301619" />
     <state x="331" y="149" key="com.intellij.ide.util.TipDialog" timestamp="1588067483561">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="301" y="170" key="com.intellij.ide.util.TipDialog/0.0.1280.689/-1080.-841.720.1249@0.0.1280.689" timestamp="1587632015179" />
     <state x="331" y="149" key="com.intellij.ide.util.TipDialog/0.0.1280.689/-1920.0.1280.689@0.0.1280.689" timestamp="1588067483561" />
     <state x="301" y="170" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1587614107131" />
-    <state x="251" y="123" key="new project wizard" timestamp="1590503896418">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="508" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590583321458">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="508" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1590583321458" />
+    <state x="151" y="106" width="1289" height="755" key="new project wizard" timestamp="1590582672857">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="0" y="41" key="new project wizard/0.0.1280.689/-1920.0.1280.689@0.0.1280.689" timestamp="1588070921639" />
     <state x="0" y="41" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1585573759325" />
+    <state x="151" y="106" width="1289" height="755" key="new project wizard/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1590582672857" />
     <state x="251" y="123" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1590503896418" />
     <state x="297" y="153" key="run.anything.popup" timestamp="1586252923158">
       <screen x="0" y="0" width="1280" height="689" />

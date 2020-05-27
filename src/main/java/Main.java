@@ -1,6 +1,6 @@
 import org.sonar.java.checks.verifier.JavaCheckVerifier;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class Main {
     public static void main(String args[]){
@@ -20,6 +20,9 @@ public class Main {
                     break;
                 case 2:
                     JavaCheckVerifier.verify(src, new ArrayCopyLoopCheck());
+                    break;
+                default:
+                    System.out.println("Worng!");
                     break;
             }
         }
